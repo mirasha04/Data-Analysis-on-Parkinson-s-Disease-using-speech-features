@@ -1,0 +1,1 @@
+Throughout this analysis we analyse the Parkinson’s Disease speech features dataset to explore patterns and build three classification models and choose the best-performing model. The purpose of this analysis is to find whether a person has Parkinson’s disease based on speech characteristics.
